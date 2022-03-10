@@ -1,0 +1,11 @@
+# created by virtualenv automatically
+.venv/bin
+*.egg-info
+__pycache__
+dist/
+*.pyc
+.venv/
+.coverage
+coverage.xml
+.pytest_cache/
+.vim
